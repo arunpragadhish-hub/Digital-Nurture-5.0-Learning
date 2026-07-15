@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Digital-Nurture-5.0-Learning.iml" filepath="$PROJECT_DIR$/.idea/Digital-Nurture-5.0-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week-1/Exercise-1-SingletonPattern/Exercise-1-SingletonPattern.iml" filepath="$PROJECT_DIR$/week-1/Exercise-1-SingletonPattern/Exercise-1-SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week-1/Exercise-2-FactoryMethodPattern/Exercise-2-FactoryMethodPattern.iml" filepath="$PROJECT_DIR$/week-1/Exercise-2-FactoryMethodPattern/Exercise-2-FactoryMethodPattern.iml" />
+    </modules>
+  </component>
+</project>
